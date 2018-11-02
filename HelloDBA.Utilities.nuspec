@@ -2,18 +2,18 @@
 <package >
   <metadata>
     <id>HelloDBA.Utilities</id>
+	  <title>HelloDBA.Utilities</title>
     <version>1.0.0</version>
     <authors>HelloDBA</authors>
     <owners>HelloDBA</owners>
-    <licenseUrl>https://raw.githubusercontent.com/aliyun/aliyun-openapi-net-sdk/master/LICENSE</licenseUrl>
-    <projectUrl>https://github.com/HelloDBA/Util</projectUrl>
-    <iconUrl>https://www.renshibang.com.cn/favicon.ico</iconUrl>
+    <licenseUrl>https://raw.githubusercontent.com/HelloDBA/HelloDBA.Utilities/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/HelloDBA/HelloDBA.Utilities</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>Fesco Util for C#</description>
+    <description>Utilities for C#</description>
     <copyright>Copyright 2018</copyright>
-    <tags>httphelper</tags>
+    <tags>hellodba,httphelper</tags>
     <dependencies>
-      <dependency id="fesco.util" version="1.0.0" />
+      
     </dependencies>
   </metadata>
 </package>
